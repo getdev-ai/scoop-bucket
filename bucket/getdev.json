@@ -10,14 +10,14 @@
     "(08-08) fills them via the bump step. Only x86_64 Windows is a release",
     "target; aarch64-pc-windows-msvc is best-effort and not shipped via Scoop."
   ],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "verify, secure, and ship AI-generated code — one binary, runs locally, nothing leaves your machine",
   "homepage": "https://getdev.ai",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/getdev-ai/cli/releases/download/v0.1.1/getdev-x86_64-pc-windows-msvc.zip",
-      "hash": "65cd5abf03f2b562e4321eb04b41d97e043372f0a0bfc6610a47eba5ee4150ab"
+      "url": "https://github.com/getdev-ai/cli/releases/download/v0.1.2/getdev-x86_64-pc-windows-msvc.zip",
+      "hash": "51bc251df33e307f4f1a23aaabb171b203b013e57f4a55f699953245bff55236"
     }
   },
   "bin": "getdev.exe",
